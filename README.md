@@ -58,3 +58,6 @@ We follow Git Merge based workflow
 2. Create a new feature branch in your fork. Multiple features must have a hyphen-separated name, or refer to a milestone name as mentioned in Github -> Projects 
 3. Commit to your fork and raise a Pull Request upstream. <br>
 Detailed instructions are present [here](docs/git-commands.md).
+
+## License
+[View License](./LICENSE)
